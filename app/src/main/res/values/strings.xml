@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rice Leaf Edge Demo</string>
+    <string name="title">Rice Leaf Health Check</string>
+    <string name="subtitle">Capture a leaf image and classify it directly on the device with PyTorch Mobile.</string>
+    <string name="capture_button">Capture Leaf Image</string>
+    <string name="ready_message">Ready for inference. Tap the button and take a leaf photo.</string>
+    <string name="capture_cancelled">Capture cancelled. Take another photo to run inference.</string>
+    <string name="result_template">Prediction: %1$s (%2$s%% confidence)</string>
+    <string name="preview_content_description">Leaf image preview</string>
+</resources>

@@ -1,0 +1,21 @@
+{
+  "checkpoint": "G:\\New\\klyff\\artifacts_cosine\\rice_leaf_edge_model.pt",
+  "classes": [
+    "Bacterial Leaf Blight",
+    "Brown Spot",
+    "Healthy Rice Leaf",
+    "Leaf Blast",
+    "Leaf scald",
+    "Sheath Blight"
+  ],
+  "image_size": 128,
+  "prune_amount": 0.0,
+  "artifacts": {
+    "edge_export_summary.json": 525,
+    "rice_leaf_edge_mobile.pt": 191479,
+    "rice_leaf_edge_mobile.ptl": 285815,
+    "rice_leaf_edge_mobile_int8.pt": 279736,
+    "rice_leaf_edge_mobile_int8.ptl": 289677,
+    "rice_leaf_edge_scripted.pt": 276865
+  }
+}

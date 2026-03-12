@@ -1,0 +1,7 @@
+<resources>
+    <color name="surfaceWarm">#F4EDE1</color>
+    <color name="card">#FFF9F1</color>
+    <color name="accent">#294C2C</color>
+    <color name="ink">#1E2A1D</color>
+    <color name="inkMuted">#5D675B</color>
+</resources>
