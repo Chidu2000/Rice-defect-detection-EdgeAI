@@ -53,7 +53,7 @@ Open the repo root in Android Studio and run the app in [app](g:\New\klyff\app).
 
 Example Android inference result:
 
-![PyTorch Mobile inference result](./Pytorch-mobile-analysis.jpg)
+<img src="./Pytorch-mobile-analysis.jpg" alt="PyTorch Mobile inference result" width="260" />
 
 ## Model Files
 
