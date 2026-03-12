@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#294C2C</color>
+    <color name="card">#FFF9F1</color>
+    <color name="ink">#1E2A1D</color>
+    <color name="inkMuted">#5D675B</color>
+    <color name="surfaceWarm">#F4EDE1</color>
+    <string name="app_name">Rice Leaf Edge Demo</string>
+    <string name="capture_button">Capture Leaf Image</string>
+    <string name="capture_cancelled">Capture cancelled. Take another photo to run inference.</string>
+    <string name="preview_content_description">Leaf image preview</string>
+    <string name="ready_message">Ready for inference. Tap the button and take a leaf photo.</string>
+    <string name="result_template">Prediction: %1$s (%2$s%% confidence)</string>
+    <string name="subtitle">Capture a leaf image and classify it directly on the device with PyTorch Mobile.</string>
+    <string name="title">Rice Leaf Health Check</string>
+    <style name="Theme.RiceLeafEdgeDemo" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/surfaceWarm</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="fontFamily">sans-serif-medium</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+</resources>
