@@ -1,6 +1,8 @@
 # Rice Leaf Edge Classifier
 
-PyTorch rice leaf disease classification project with a baseline model, a PyTorch Mobile edge model, and a minimal Android demo for on-device inference.
+This project is a lightweight computer vision pipeline for rice leaf disease classification. It uses a custom PyTorch CNN trained on the Kaggle `anshulm257/rice-disease-dataset` to classify leaf images into six classes: `Bacterial Leaf Blight`, `Brown Spot`, `Healthy Rice Leaf`, `Leaf Blast`, `Leaf scald`, and `Sheath Blight`.
+
+The repository includes the full training workflow, a standalone inference script, a PyTorch Mobile edge model, and a minimal Android app that runs inference locally on-device. The goal is to keep the model small enough for edge deployment while preserving usable validation accuracy.
 
 ## Setup
 
