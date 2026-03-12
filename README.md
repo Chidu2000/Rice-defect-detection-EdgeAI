@@ -49,9 +49,7 @@ Final edge model:
 
 Open the repo root in Android Studio and run the app in [app](g:\New\klyff\app). It loads the PyTorch Mobile `.ptl` model and runs inference locally after capturing a leaf image.
 
-## Mobile Inference Proof
-
-Example Android inference result:
+## Mobile Inference Result
 
 <img src="./Pytorch-mobile-analysis.jpg" alt="PyTorch Mobile inference result" width="260" />
 
